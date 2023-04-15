@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T09:52:23.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0 (Edition Yx 02)" etag="AiLY5cqRglqx12Orvwtp" version="21.1.4" type="device">
+<mxfile host="Electron" modified="2023-04-15T09:55:18.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="5j7APe7M3SJ_PsOw3GpZ" version="21.1.2" type="device">
   <diagram name="Страница 1" id="Nm9DoTLBU7HrxLToe_yr">
-    <mxGraphModel dx="3445" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7UohB-079pg0cIVBK1eG-25" value="Блок-схема алгоритма метода, возвращающего&amp;nbsp;массив из элементов строкового массива array&lt;span style=&quot;background-color: initial;&quot;&gt;, длина которых меньше или равна заданной len&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;GetArraySpecElements(&lt;span style=&quot;color: #569cd6;&quot;&gt;string&lt;/span&gt;[] &lt;span style=&quot;color: #9cdcfe;&quot;&gt;array&lt;/span&gt;, &lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;len&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="215" y="35" width="425" height="80" as="geometry" />
+          <mxGeometry x="187" y="54" width="425" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7UohB-079pg0cIVBK1eG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7UohB-079pg0cIVBK1eG-26" target="7UohB-079pg0cIVBK1eG-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
